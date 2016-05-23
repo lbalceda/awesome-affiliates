@@ -5,17 +5,19 @@ A curated list of awesome affiliate programs with easy-to-embed referral links (
 Please contribute to this list by pull request or contact me on Twitter @lbalceda.
 
 ## Index
+- [Books](#books)
 - [Code](#code)
 - [Domains / Hosting](#domains--hosting)
 - [Education](#education)
 - [Events](#events)
 - [Images / Photos](#images--photos)
 - [Marketing / Email Automation](#marketing--email-automation)
-- [Misc](#misc)
+- [Traditional Affiliate Networks](#traditional-affiliate-networks)
 - [Music / Sounds](#music--sounds)
 - [Shopping](#shopping)
 - [Themes](#themes)
 - [Transportation](#transportation)
+- [Travel](#travel)
 - [Videos](#videos)
 
 ### Images / Photos
@@ -33,8 +35,16 @@ Please contribute to this list by pull request or contact me on Twitter @lbalced
 - [Shutterstock](https://developers.shutterstock.com/) API & referral link
 - [Stockfresh](http://stockfresh.com/info/affiliates) referral link
 
+### Events
+- [Eventbrite](https://www.eventbrite.com/referral-program/)
+- [Ticketfly](http://start.ticketfly.com/affiliate/)
+- [Ticketleap](https://help.ticketleap.com/hc/en-us/articles/215250978-How-does-the-Ticketleap-referral-program-work-)
+- [Seatgeek](https://seatgeek.com/tba/articles/seatgeek-partner-program-instructions-info/)
+
+
 ### Productivity Tools
 - [Google Apps](https://apps.google.com/landing/partners/referral/) referral link
+- [Microsoft](http://www.microsoftaffiliates.com/) referral link
 
 ### Domains / Hosting
 - [bluehost](https://www.bluehost.com/hosting/partner) referral link
@@ -49,6 +59,7 @@ Please contribute to this list by pull request or contact me on Twitter @lbalced
 - [GetResponse](http://www.getresponse.com/partners) referral link
 
 ### Themes
+- [Elegant Themes](https://www.elegantthemes.com/affiliates/) referral link / banners
 - [Themeforest](http://themeforest.net/affiliate_program) referral link
 
 ### Education
@@ -66,19 +77,41 @@ Please contribute to this list by pull request or contact me on Twitter @lbalced
 - [LuckStock](https://luckstock.com/pages/affiliate-program.html) referral link
 - [Pond5](https://www.pond5.com/referral) referral link
 
+### Transportation
+- [Lyft](https://developer.lyft.com/docs/affiliate-program)
+- [Uber](https://developer.uber.com/docs/affiliate-program)
+
+### Travel
+- [Booking.com](http://www.booking.com/affiliate-program/index.html)
+- [Expedia](http://developer.ean.com/)
+- [Hotels.com](http://www.hotels.com/hotel-deals/travel-affiliate-program/)
+- [Hotwire](https://www.hotwire.com/en/content/affiliate-overview)
+- [Orbitz](https://www.orbitz.com/p/network-affiliate)
+- [TravelPayouts](https://www.travelpayouts.com/)
+- [TripAdvisor](https://www.tripadvisor.com/Affiliates)
+
+### Books
+
+- [Amazon](https://affiliate-program.amazon.com/)
+- [Books a Million](http://www.booksamillion.com/affiliates/index.html)
+- [Better World Books](http://www.betterworldbooks.com/go/affiliate)
+
 ### Shopping
 
 - [Amazon](https://affiliate-program.amazon.com/join/landing/tools.html) API & referral links
 - [Best Buy](http://www.bestbuy.com/site/clp/best-buy-affiliate-program/pcmcat198500050002.c?id=pcmcat198500050002) referral links
 - [Ebay](https://partnernetwork.ebay.com/en/home) referral links
+- [Esty](https://www.etsy.com/help/article/5369?ref=affiliates_landing) referral links
 - [Google Shopping](https://www.google.com/appserve/fb/forms/googleshoppingaffiliates/) referral links
-- [Rakuten](http://marketing.rakuten.com/affiliate-marketing)
+- [Home Depot](http://www.homedepot.com/c/SF_MS_Affiliate_Program_FAQs) referral links
 - [Target](http://affiliate.target.com/)
 - [Walmart](https://affiliates.walmart.com/#!/) referral links, tools to create banners
 
-### Transportation
-- [Lyft](https://developer.lyft.com/docs/affiliate-program)
-- [Uber](https://developer.uber.com/docs/affiliate-program)
-
-### Events
-- [Ticketfly](http://start.ticketfly.com/affiliate/)
+### Traditional Affiliate Networks / Marketplaces
+- [Amazon Affiliate](https://affiliate-program.amazon.com/)
+- [CJ Affiliate / Commission Junction](http://www.cj.com/)
+- [Clickbank](http://www.clickbank.com/)
+- [ClixGalore](http://www.clixgalore.com/)
+- [Peerfly](https://peerfly.com/)
+- [Rakuten](http://marketing.rakuten.com/affiliate-marketing)
+- [Share Sale](http://www.shareasale.com/)
