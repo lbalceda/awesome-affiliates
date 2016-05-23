@@ -2,7 +2,7 @@
 
 A curated list of awesome affiliate programs with easy-to-embed referral links (usually no developer required) or APIs (developer required) to help monetize your app / blog / site.
 
-Please contribute to this list by pull request or contact me on Twitter @lbalceda.
+Please contribute to this list by pull request or contact me on Twitter [@lbalceda](https://twitter.com/lbalceda).
 
 ## Index
 - [Books](#books)
@@ -101,7 +101,7 @@ Please contribute to this list by pull request or contact me on Twitter @lbalced
 - [Amazon](https://affiliate-program.amazon.com/join/landing/tools.html) API & referral links
 - [Best Buy](http://www.bestbuy.com/site/clp/best-buy-affiliate-program/pcmcat198500050002.c?id=pcmcat198500050002) referral links
 - [Ebay](https://partnernetwork.ebay.com/en/home) referral links
-- [Esty](https://www.etsy.com/help/article/5369?ref=affiliates_landing) referral links
+- [Etsy](https://www.etsy.com/help/article/5369?ref=affiliates_landing) referral links
 - [Google Shopping](https://www.google.com/appserve/fb/forms/googleshoppingaffiliates/) referral links
 - [Home Depot](http://www.homedepot.com/c/SF_MS_Affiliate_Program_FAQs) referral links
 - [Target](http://affiliate.target.com/)
