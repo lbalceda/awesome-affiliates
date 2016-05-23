@@ -1,6 +1,6 @@
 # Awesome Affiliates [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome affiliate programs with either APIs (developer required) or easy-to-embed referral links (usually no developer required) to help monetize your app / blog / site.
+A curated list of awesome affiliate programs with easy-to-embed referral links (usually no developer required) or APIs (developer required) to help monetize your app / blog / site.
 
 Please contribute to this list by pull request or contact me on Twitter @lbalceda.
 
@@ -11,6 +11,7 @@ Please contribute to this list by pull request or contact me on Twitter @lbalced
 - [Events](#events)
 - [Images / Photos](#images--photos)
 - [Marketing / Email Automation](#marketing--email-automation)
+- [Misc](#misc)
 - [Music / Sounds](#music--sounds)
 - [Shopping](#shopping)
 - [Themes](#themes)
@@ -32,9 +33,8 @@ Please contribute to this list by pull request or contact me on Twitter @lbalced
 - [Shutterstock](https://developers.shutterstock.com/) API & referral link
 - [Stockfresh](http://stockfresh.com/info/affiliates) referral link
 
-### General
-- [Rakuten](http://marketing.rakuten.com/affiliate-marketing)
-- []
+### Productivity Tools
+- [Google Apps](https://apps.google.com/landing/partners/referral/) referral link
 
 ### Domains / Hosting
 - [bluehost](https://www.bluehost.com/hosting/partner) referral link
@@ -72,6 +72,9 @@ Please contribute to this list by pull request or contact me on Twitter @lbalced
 - [Best Buy](http://www.bestbuy.com/site/clp/best-buy-affiliate-program/pcmcat198500050002.c?id=pcmcat198500050002) referral links
 - [Ebay](https://partnernetwork.ebay.com/en/home) referral links
 - [Google Shopping](https://www.google.com/appserve/fb/forms/googleshoppingaffiliates/) referral links
+- [Rakuten](http://marketing.rakuten.com/affiliate-marketing)
+- [Target](http://affiliate.target.com/)
+- [Walmart](https://affiliates.walmart.com/#!/) referral links, tools to create banners
 
 ### Transportation
 - [Lyft](https://developer.lyft.com/docs/affiliate-program)
