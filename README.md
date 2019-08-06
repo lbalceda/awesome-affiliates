@@ -103,6 +103,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Orbitz](https://www.orbitz.com) - [affiliate information](https://www.orbitz.com/p/network-affiliate)
 - [TravelPayouts](https://www.travelpayouts.com) - [affiliate information](https://www.travelpayouts.com/)
 - [TripAdvisor](https://www.tripadvisor.com) - [affiliate information](https://www.tripadvisor.com/Affiliates)
+- [Triptipedia](https://www.triptipedia.com) - [affiliate information](https://www.triptipedia.com/affiliate)
 
 <a name="books"></a> 
 ### Books
