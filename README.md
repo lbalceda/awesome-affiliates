@@ -19,6 +19,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Shopping](#shopping)
 - [Themes](#themes)
 - [Transportation](#transportation)
+- [Tools](#tools)
 - [Travel](#travel)
 - [Videos](#videos)
 
@@ -133,3 +134,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Peerfly](https://www.peerfly.com) - [affiliate information](https://peerfly.com/advertisers.php)
 - [Rakuten](http://www.rakuten.com) - [affiliate information](http://marketing.rakuten.com/affiliate-marketing)
 - [Share Sale](http://www.shareasale.com) - [affiliate information](http://www.shareasale.com/)
+
+<a name="tools"></a>
+### Tools
+- [Calcmatic](https://calcmatic.app) - Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance
