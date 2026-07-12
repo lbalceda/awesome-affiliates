@@ -79,6 +79,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [binpress](http://www.binpress.com) - [affiliate information](http://www.binpress.com/content/affiliates) referral link
 - [Codecanyon](http://codecanyon.net) - [affiliate information](http://codecanyon.net/affiliate_program) referral link
 - [BCMS](https://thebcms.com) - [affiliate information](https://thebcms.com/affiliate)
+- [UIZZE](https://uizze.com) - [affiliate information](https://uizze.com/affiliates) - 50% of each referred buyer's first paid order; non-recurring; 30-day hold; manual payout. Public catalog is free; full access costs $9/month or $99 once.
 
 <a name="videos"></a> 
 ### Videos
