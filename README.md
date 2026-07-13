@@ -64,6 +64,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 ### Marketing / Email Automation
 - [Aweber](http://www.aweber.com) - [affiliate information](http://www.aweber.com/affiliates.htm) referral link
 - [GetResponse](http://www.getresponse.com) - [affiliate information](http://www.getresponse.com/partners) referral link
+- [Kafkai](https://kafkai.com) - [affiliate information](https://kafkai.com/en/affiliate/) referral link
 
 <a name="themes"></a> 
 ### Themes
