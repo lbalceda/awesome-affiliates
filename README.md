@@ -49,6 +49,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 
 <a name="productivity-tools"></a> 
 ### Productivity Tools
+- [BrandQuill](https://brandquill.app/?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) - [affiliate information](https://brandquill.app/affiliates?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) 30% referral link, automatic approval, 30-day tracking
 - [Google Apps](https://apps.google.com) - [affiliate information](https://apps.google.com/landing/partners/referral/) referral link
 - [Microsoft](http://www.microsoft.com) - [affiliate information](http://www.microsoftaffiliates.com/) referral link
 
