@@ -16,6 +16,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Images / Photos](#images--photos)
 - [Marketing / Email Automation](#marketing--email-automation)
 - [Traditional Affiliate Networks](#traditional-affiliate-networks)
+- [Resources](#resources)
 - [Music / Sounds](#music--sounds)
 - [Shopping](#shopping)
 - [Themes](#themes)
@@ -168,3 +169,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Peerfly](https://www.peerfly.com) - [affiliate information](https://peerfly.com/advertisers.php)
 - [Rakuten](http://www.rakuten.com) - [affiliate information](http://marketing.rakuten.com/affiliate-marketing)
 - [Share Sale](http://www.shareasale.com) - [affiliate information](http://www.shareasale.com/)
+
+<a name="resources"></a>
+### Resources
+- [Affiliate Program Terms](https://affiliateprogramterms.com) - commission rate, recurring vs one-time, cookie window, payout minimum and payout method for 252 developer and SaaS programs. Every field carries the URL it was read from and the date it was checked. 50 are free to read in full; [mirrored on GitHub](https://github.com/dave8172/affiliate-program-terms)
