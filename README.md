@@ -52,6 +52,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [BrandQuill](https://brandquill.app/?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) - [affiliate information](https://brandquill.app/affiliates?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) 30% referral link, automatic approval, 30-day tracking
 - [Google Apps](https://apps.google.com) - [affiliate information](https://apps.google.com/landing/partners/referral/) referral link
 - [Microsoft](http://www.microsoft.com) - [affiliate information](http://www.microsoftaffiliates.com/) referral link
+- [Oakhampton Operations Twin](https://twin.oakhampton.ai) - [affiliate information](https://twin.oakhampton.ai/partners) 20% of net revenue for 12 months per referred client, 30-day tracking, automatic approval
 
 <a name="domains--hosting"></a> 
 ### Domains / Hosting
@@ -104,6 +105,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 ### Transportation
 - [Lyft](https://www.lyft.com) - [affiliate information](https://developer.lyft.com/docs/affiliate-program)
 - [Uber](https://www.uber.com) - [affiliate information](https://developer.uber.com/docs/affiliate-program)
+- [CyberForward](https://cyberforward.us) - [affiliate information](https://cyberforward.us/partners) 20% of net revenue for 12 months per referred freight forwarder, 90-day tracking, automatic approval
 
 <a name="travel"></a> 
 ### Travel
