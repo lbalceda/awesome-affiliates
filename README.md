@@ -80,6 +80,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 <a name="code"></a> 
 ### Code
 - [binpress](http://www.binpress.com) - [affiliate information](http://www.binpress.com/content/affiliates) referral link
+- [CSV SafeCheck](https://csv-safecheck.pages.dev/) - [affiliate information](https://csv-safecheck.pages.dev/affiliates) 10% referral links, manual approval, 7-day tracking
 - [Codecanyon](http://codecanyon.net) - [affiliate information](http://codecanyon.net/affiliate_program) referral link
 - [Tower](https://www.git-tower.com/) - [affiliate information](https://www.git-tower.com/affiliate-program) referral link
 - [BCMS](https://thebcms.com) - [affiliate information](https://thebcms.com/affiliate)
