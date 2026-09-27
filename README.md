@@ -40,14 +40,14 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Shutterstock](https://developers.shutterstock.com) - [affiliate information](https://developers.shutterstock.com/) API & referral link
 - [Stockfresh](http://stockfresh.com) - [affiliate information](http://stockfresh.com/info/affiliates) referral link
 
-<a name="events"></a> 
+<a name="events"></a>
 ### Events
 - [Eventbrite](https://www.eventbrite.com) - [affiliate information](https://www.eventbrite.com/referral-program/)
 - [Ticketfly](http://www.ticketfly.com) - [affiliate information](http://start.ticketfly.com/affiliate/)
 - [Ticketleap](https://www.ticketleap.com) - [affiliate information](https://help.ticketleap.com/hc/en-us/articles/215250978-How-does-the-Ticketleap-referral-program-work-)
 - [Seatgeek](https://www.seatgeek.com) - [affiliate information](https://seatgeek.com/tba/articles/seatgeek-partner-program-instructions-info/)
 
-<a name="productivity-tools"></a> 
+### Productivity Tools <a name="productivity-tools"></a> 
 
 - [BrandQuill](https://brandquill.app/?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) - [affiliate information](https://brandquill.app/affiliates?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) 30% referral link, automatic approval, 30-day tracking
 - [aiFetchly](https://www.aifetchly.com) - [affiliate information](https://www.aifetchly.com/affiliate) Open-source desktop AI agent for business automation. 20% recurring direct commission, 5% recurring second-tier commission, 90-day last-click tracking, PayPal payouts, $50 minimum payout.
