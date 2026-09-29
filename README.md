@@ -171,6 +171,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Amazon Affiliate](https://affiliate-program.amazon.com/) - [affiliate information](https://affiliate-program.amazon.com/)
 - [CJ Affiliate / Commission Junction](http://www.cj.com) - [affiliate information](http://www.cj.com/)
 - [Clickbank](http://www.clickbank.com) - [affiliate information](http://www.clickbank.com/)
+- [Clickwise](https://partners.clickwise.net/developers/) - [affiliate information](https://partners.clickwise.net/en/signup_affiliate/) API & MCP server: 1.1M+ products by GTIN with your tracked links, program discovery and apply, batch deep links, sub-ID reports and signed postbacks
 - [ClixGalore](http://www.clixgalore.com) - [affiliate information](http://www.clixgalore.com/)
 - [Peerfly](https://www.peerfly.com) - [affiliate information](https://peerfly.com/advertisers.php)
 - [Rakuten](http://www.rakuten.com) - [affiliate information](http://marketing.rakuten.com/affiliate-marketing)
