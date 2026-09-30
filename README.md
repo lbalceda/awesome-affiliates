@@ -117,6 +117,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 
 <a name="communication"></a>
 ### Communication
+- [FastComments](https://fastcomments.com) - [affiliate information](https://docs.fastcomments.com/guide-affiliates.html) Commenting system for websites and apps. 30% lifetime recurring on all referred revenue; monthly payouts by PayPal
 - [PuchiDen](https://puchiden.app) - [affiliate information](https://puchiden.app/blog/product-updates/our-affiliate-program-is-open/) referral link
 
 <a name="videos"></a> 
