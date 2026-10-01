@@ -52,6 +52,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 
 - [BrandQuill](https://brandquill.app/?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) - [affiliate information](https://brandquill.app/affiliates?utm_source=github&utm_medium=affiliate_directory&utm_campaign=awesome_affiliates) 30% referral link, automatic approval, 30-day tracking
 - [aiFetchly](https://www.aifetchly.com) - [affiliate information](https://www.aifetchly.com/affiliate) Open-source desktop AI agent for business automation. 20% recurring direct commission, 5% recurring second-tier commission, 90-day last-click tracking, PayPal payouts, $50 minimum payout.
+- [DokuTrak](https://dokutrak.com) - [affiliate information](https://dokutrak.com/partners) Client document collection for accountants, bookkeepers and lawyers. 40% of every paid invoice during the customer's first 12 months, then 20% recurring for as long as the customer stays; 90-day last-click tracking, automatic approval, PayPal or bank payouts, $50 minimum payout
 - [FreshBooks](https://www.freshbooks.com/) - [affiliate information](https://www.freshbooks.com/affiliate-program) Up to $200 per paid subscriber, on a commission structure that grows with volume
 - [Google Apps](https://apps.google.com) - [affiliate information](https://apps.google.com/landing/partners/referral/) referral link
 - [Microsoft](http://www.microsoft.com) - [affiliate information](http://www.microsoftaffiliates.com/) referral link
