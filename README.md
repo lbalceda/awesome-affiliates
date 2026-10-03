@@ -173,5 +173,6 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Clickbank](http://www.clickbank.com) - [affiliate information](http://www.clickbank.com/)
 - [ClixGalore](http://www.clixgalore.com) - [affiliate information](http://www.clixgalore.com/)
 - [Peerfly](https://www.peerfly.com) - [affiliate information](https://peerfly.com/advertisers.php)
+- [Power CM Partners](https://partners.powercm-software.com/) - [affiliate information](https://partners.powercm-software.com/) Free software affiliate network with no exclusivity. Partners can recommend software and track visits, attributed signups, verified sales, and commissions; terms vary by product.
 - [Rakuten](http://www.rakuten.com) - [affiliate information](http://marketing.rakuten.com/affiliate-marketing)
 - [Share Sale](http://www.shareasale.com) - [affiliate information](http://www.shareasale.com/)
