@@ -7,6 +7,7 @@ Please contribute to this list by pull request or contact me on Twitter [@lbalce
 Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20list%20of%20awesome%20affiliate%20programs%20https%3A%2F%2Fgithub.com%2Flbalceda%2Fawesome-affiliates).
 
 ## Index
+- [AI Tools](#ai-tools)
 - [Books](#books)
 - [Code](#code)
 - [Communication](#communication)
@@ -24,6 +25,18 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Travel](#travel)
 - [Videos](#videos)
 
+
+<a name="ai-tools"></a>
+### AI Tools
+- [Descript](https://www.descript.com/) - [affiliate information](https://www.descript.com/affiliate) $25 per new subscriber
+- [ElevenLabs](https://elevenlabs.io/) - [affiliate information](https://elevenlabs.io/affiliates) Up to 22% of payments for the first 12 months
+- [HeyGen](https://www.heygen.com/) - [affiliate information](https://www.heygen.com/geniverse/social-creator-program) 35% recurring for 3 months; 30-day cookie
+- [Lovable](https://lovable.dev/) - [affiliate information](https://lovable.dev/partners/affiliates) Up to $100 per first-time subscriber
+- [Murf](https://murf.ai/) - [affiliate information](https://murf.ai/partner-with-us/affiliate) 20% recurring for 24 months; 90-day cookie
+- [OpusClip](https://www.opus.pro/) - [affiliate information](https://www.opus.pro/affiliate) 25% recurring for the first year; paid by PayPal
+- [Retell AI](https://www.retellai.com/) - [affiliate information](https://www.retellai.com/affiliate) 15% recurring for 12 months; 90-day cookie
+- [Rytr](https://rytr.me/) - [affiliate information](https://rytr.me/affiliates) 30% recurring for 12 months; 60-day cookie
+- [Writesonic](https://writesonic.com/) - [affiliate information](https://writesonic.com/affiliate) 20% recurring for 12 months; 60-day cookie
 
 <a name="images--photos"></a> 
 ### Images / Photos
