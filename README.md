@@ -187,7 +187,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Amazon Affiliate](https://affiliate-program.amazon.com/) - [affiliate information](https://affiliate-program.amazon.com/)
 - [CJ Affiliate / Commission Junction](http://www.cj.com) - [affiliate information](http://www.cj.com/)
 - [Clickbank](http://www.clickbank.com) - [affiliate information](http://www.clickbank.com/)
-- [Clickwise](https://partners.clickwise.net/developers/) - [affiliate information](https://partners.clickwise.net/en/signup_affiliate/) API & MCP server: 1.1M+ products by GTIN with your tracked links, program discovery and apply, batch deep links, sub-ID reports and signed postbacks
+- [Clickwise](https://partners.clickwise.net/developers/) - [affiliate information](https://partners.clickwise.net/en/signup_affiliate/) API & MCP server: multi-store product search by GTIN with your tracked links, program discovery and apply, batch deep links, sub-ID reports and signed postbacks
 - [ClixGalore](http://www.clixgalore.com) - [affiliate information](http://www.clixgalore.com/)
 - [Peerfly](https://www.peerfly.com) - [affiliate information](https://peerfly.com/advertisers.php)
 - [Power CM Partners](https://partners.powercm-software.com/) - [affiliate information](https://partners.powercm-software.com/) Free software affiliate network with no exclusivity. Partners can recommend software and track visits, attributed signups, verified sales, and commissions; terms vary by product.
