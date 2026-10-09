@@ -97,7 +97,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [HubSpot](https://www.hubspot.com/) - [affiliate information](https://www.hubspot.com/affiliates) 30% recurring for up to one year, up to $1,000+ per sale; 180-day cookie; $10 minimum
 - [Hunter](https://hunter.io/) - [affiliate information](https://hunter.io/affiliate-program) 30% recurring; 30-day cookie; $100 minimum
 - [Kafkai](https://kafkai.com) - [affiliate information](https://kafkai.com/en/affiliate/) referral link
-- [LaunchSpy](https://launchspy.io/) - [affiliate information](https://launchspy.io/affiliate) 40% recurring for the customer's lifetime; promo code with no expiry plus referral link with 60-day cookie; €50 minimum
+- [LaunchSpy](https://launchspy.io/) - [affiliate information](https://partners.launchspy.io/register) 40% recurring for the customer's lifetime; promo code with no expiry plus referral link with 60-day cookie; €50 minimum
 - [Mangools](https://mangools.com/) - [affiliate information](https://mangools.com/affiliate-program) 25%, 30% or 35% by tier; recurring
 - [Omnisend](https://www.omnisend.com/) - [affiliate information](https://www.omnisend.com/affiliates/) 20% recurring for up to 24 months; 60-day cookie
 - [Rank Math](https://rankmath.com/) - [affiliate information](https://rankmath.com/affiliates/) 30% per sale; $200 minimum
