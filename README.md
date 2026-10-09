@@ -36,6 +36,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [OpusClip](https://www.opus.pro/) - [affiliate information](https://www.opus.pro/affiliate) 25% recurring for the first year; paid by PayPal
 - [Retell AI](https://www.retellai.com/) - [affiliate information](https://www.retellai.com/affiliate) 15% recurring for 12 months; 90-day cookie
 - [Rytr](https://rytr.me/) - [affiliate information](https://rytr.me/affiliates) 30% recurring for 12 months; 60-day cookie
+- [tlooto AI](https://tlooto.com/) - [affiliate information](https://tlooto.com/influencer/en-US) 30% recurring for 12 months; 365-day cookie; $100 minimum
 - [Writesonic](https://writesonic.com/) - [affiliate information](https://writesonic.com/affiliate) 20% recurring for 12 months; 60-day cookie
 
 <a name="images--photos"></a> 
