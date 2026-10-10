@@ -34,6 +34,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Lovable](https://lovable.dev/) - [affiliate information](https://lovable.dev/partners/affiliates) Up to $100 per first-time subscriber
 - [Murf](https://murf.ai/) - [affiliate information](https://murf.ai/partner-with-us/affiliate) 20% recurring for 24 months; 90-day cookie
 - [OpusClip](https://www.opus.pro/) - [affiliate information](https://www.opus.pro/affiliate) 25% recurring for the first year; paid by PayPal
+- [ReelsCut](https://reelscut.ai/) - [affiliate information](https://reelscut.ai/affiliate) 30% recurring for life, no cap; 180-day attribution; paid via Creem
 - [Retell AI](https://www.retellai.com/) - [affiliate information](https://www.retellai.com/affiliate) 15% recurring for 12 months; 90-day cookie
 - [Rytr](https://rytr.me/) - [affiliate information](https://rytr.me/affiliates) 30% recurring for 12 months; 60-day cookie
 - [Writesonic](https://writesonic.com/) - [affiliate information](https://writesonic.com/affiliate) 20% recurring for 12 months; 60-day cookie
