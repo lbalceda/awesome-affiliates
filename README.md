@@ -37,6 +37,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Retell AI](https://www.retellai.com/) - [affiliate information](https://www.retellai.com/affiliate) 15% recurring for 12 months; 90-day cookie
 - [Rytr](https://rytr.me/) - [affiliate information](https://rytr.me/affiliates) 30% recurring for 12 months; 60-day cookie
 - [tlooto AI](https://tlooto.com/) - [affiliate information](https://tlooto.com/influencer/en-US) 30% recurring for 12 months; 365-day cookie; $100 minimum
+- [VideoGen](https://videogen.io/) - [affiliate information](https://videogen.io/affiliate-program) 30% recurring on referred subscriptions; up-to-60-day cookie; monthly payouts; $50 minimum; manual application review
 - [Writesonic](https://writesonic.com/) - [affiliate information](https://writesonic.com/affiliate) 20% recurring for 12 months; 60-day cookie
 
 <a name="images--photos"></a> 
@@ -98,6 +99,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [HubSpot](https://www.hubspot.com/) - [affiliate information](https://www.hubspot.com/affiliates) 30% recurring for up to one year, up to $1,000+ per sale; 180-day cookie; $10 minimum
 - [Hunter](https://hunter.io/) - [affiliate information](https://hunter.io/affiliate-program) 30% recurring; 30-day cookie; $100 minimum
 - [Kafkai](https://kafkai.com) - [affiliate information](https://kafkai.com/en/affiliate/) referral link
+- [LaunchSpy](https://launchspy.io/) - [affiliate information](https://launchspy.io/affiliate) 40% recurring for the customer's lifetime; promo code with no expiry plus referral link with 60-day cookie; €50 minimum
 - [Mangools](https://mangools.com/) - [affiliate information](https://mangools.com/affiliate-program) 25%, 30% or 35% by tier; recurring
 - [Omnisend](https://www.omnisend.com/) - [affiliate information](https://www.omnisend.com/affiliates/) 20% recurring for up to 24 months; 60-day cookie
 - [Rank Math](https://rankmath.com/) - [affiliate information](https://rankmath.com/affiliates/) 30% per sale; $200 minimum
@@ -187,7 +189,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Amazon Affiliate](https://affiliate-program.amazon.com/) - [affiliate information](https://affiliate-program.amazon.com/)
 - [CJ Affiliate / Commission Junction](http://www.cj.com) - [affiliate information](http://www.cj.com/)
 - [Clickbank](http://www.clickbank.com) - [affiliate information](http://www.clickbank.com/)
-- [Clickwise](https://partners.clickwise.net/developers/) - [affiliate information](https://partners.clickwise.net/en/signup_affiliate/) API & MCP server: 1.1M+ products by GTIN with your tracked links, program discovery and apply, batch deep links, sub-ID reports and signed postbacks
+- [Clickwise](https://partners.clickwise.net/developers/) - [affiliate information](https://partners.clickwise.net/en/signup_affiliate/) API & MCP server: program discovery and apply, tracked links, batch deep links, sub-ID reports, signed postbacks and a product search endpoint (by text or GTIN)
 - [ClixGalore](http://www.clixgalore.com) - [affiliate information](http://www.clixgalore.com/)
 - [Peerfly](https://www.peerfly.com) - [affiliate information](https://peerfly.com/advertisers.php)
 - [Power CM Partners](https://partners.powercm-software.com/) - [affiliate information](https://partners.powercm-software.com/) Free software affiliate network with no exclusivity. Partners can recommend software and track visits, attributed signups, verified sales, and commissions; terms vary by product.
