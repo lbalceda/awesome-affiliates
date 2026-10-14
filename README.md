@@ -104,6 +104,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Mangools](https://mangools.com/) - [affiliate information](https://mangools.com/affiliate-program) 25%, 30% or 35% by tier; recurring
 - [Omnisend](https://www.omnisend.com/) - [affiliate information](https://www.omnisend.com/affiliates/) 20% recurring for up to 24 months; 60-day cookie
 - [Rank Math](https://rankmath.com/) - [affiliate information](https://rankmath.com/affiliates/) 30% per sale; $200 minimum
+- [Repostit](https://repostit.io/) - [affiliate information](https://partners.repostit.io/register) Social video publishing automation. 20% recurring on valid paid, non-refunded subscriptions while the customer stays active; 360-day attribution; 60-day validation; $10 minimum; monthly PayPal or bank payouts.
 - [Semrush](https://www.semrush.com/) - [affiliate information](https://www.semrush.com/lp/affiliate-program/en/) $100–$300 per sale, rising to $450 at Platinum, plus $10 per free trial; 120-day cookie
 - [Surfer](https://surferseo.com/) - [affiliate information](https://surferseo.com/affiliate-program/) 75–125% of a monthly subscriber's first payment, or 15–25% of an annual, by tier; 90-day cookie
 
