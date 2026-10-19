@@ -84,6 +84,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [godaddy](https://www.godaddy.com) - [affiliate information](https://www.godaddy.com/affiliates/affiliate-program.aspx) referral links/banners
 - [hostgator](https://www.hostgator.com) - [affiliate information](https://www.hostgator.com/affiliates) referral link
 - [Hostinger](https://www.hostinger.com/) - [affiliate information](https://www.hostinger.com/affiliates) Starts at 40% and grows with sales volume
+- [Karma.Domains](https://karma.domains/) - [affiliate information](https://karma.domains/en/affiliate-program/) 50% lifetime recurring commission; 100-day cookie; $50 minimum by PayPal, USDT or USDC
 - [Kinsta](https://kinsta.com/) - [affiliate information](https://kinsta.com/affiliates/) 10% monthly, plus a one-time bonus of up to $500; recurring; 60-day cookie
 - [namecheap](https://www.namecheap.com) - [affiliate information](https://www.namecheap.com/affiliates.aspx) referral link
 - [register.com](https://www.register.com) - [affiliate information](https://www.register.com/affiliate.rcmx) referral link / banners
