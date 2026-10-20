@@ -31,6 +31,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Descript](https://www.descript.com/) - [affiliate information](https://www.descript.com/affiliate) $25 per new subscriber
 - [ElevenLabs](https://elevenlabs.io/) - [affiliate information](https://elevenlabs.io/affiliates) Up to 22% of payments for the first 12 months
 - [HeyGen](https://www.heygen.com/) - [affiliate information](https://www.heygen.com/geniverse/social-creator-program) 35% recurring for 3 months; 30-day cookie
+- [Julius AI](https://julius.ai/) - [affiliate information](https://partners.dub.co/julius) 50% recurring for 12 months, up to $25,000 per customer; 60-day cookie; monthly payouts, no minimum
 - [Lovable](https://lovable.dev/) - [affiliate information](https://lovable.dev/partners/affiliates) Up to $100 per first-time subscriber
 - [Murf](https://murf.ai/) - [affiliate information](https://murf.ai/partner-with-us/affiliate) 20% recurring for 24 months; 90-day cookie
 - [OpusClip](https://www.opus.pro/) - [affiliate information](https://www.opus.pro/affiliate) 25% recurring for the first year; paid by PayPal
