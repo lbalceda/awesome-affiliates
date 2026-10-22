@@ -90,6 +90,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [namecheap](https://www.namecheap.com) - [affiliate information](https://www.namecheap.com/affiliates.aspx) referral link
 - [register.com](https://www.register.com) - [affiliate information](https://www.register.com/affiliate.rcmx) referral link / banners
 - [SiteGround](https://www.siteground.com/) - [affiliate information](https://www.siteground.com/affiliates) $50–$100 per sale by monthly volume; no minimum threshold
+- [Tuncer Technologies](https://www.tuncertech.com/) - [affiliate information](https://partners.tuncertech.com/) Websites, hosting, apps and IT services; up to 25% of net on hosting for 12 months, up to 15% on packages, up to 10% on services; 60-day cookie; weekly payouts from $25 by PayPal, bank, GCash or Maya
 - [uniregistry](https://uniregistry.com) - [affiliate information](https://uniregistry.com/affiliates/about) referral link
 - [WP Engine](https://wpengine.com/) - [affiliate information](https://wpengine.com/affiliate-program/) $100 on Lite plans, $200 or the first month's payment on all others; 180-day cookie
 
