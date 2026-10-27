@@ -36,6 +36,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Lazy Ads](https://lazyads.ai/) - [affiliate information](https://lazyads.ai/affiliates/join) AI media buyer on a fixed monthly fee across nine ad networks. 25% of eligible paid subscription invoices for 12 months; 90-day first-touch cookie; Stripe Connect payouts after a 30-day hold; $50 minimum
 - [Lovable](https://lovable.dev/) - [affiliate information](https://lovable.dev/partners/affiliates) Up to $100 per first-time subscriber
 - [Murf](https://murf.ai/) - [affiliate information](https://murf.ai/partner-with-us/affiliate) 20% recurring for 24 months; 90-day cookie
+- [Newly](https://newly.app/) - [affiliate information](https://newly.app/affiliates) 60% of each referred new customer's revenue for their first 6 months; 30-day cookie; monthly NET-15 payouts, $0 minimum
 - [OpusClip](https://www.opus.pro/) - [affiliate information](https://www.opus.pro/affiliate) 25% recurring for the first year; paid by PayPal
 - [ReelsCut](https://reelscut.ai/) - [affiliate information](https://reelscut.ai/affiliate) 30% recurring for life, no cap; 180-day attribution; paid via Creem
 - [Retell AI](https://www.retellai.com/) - [affiliate information](https://www.retellai.com/affiliate) 15% recurring for 12 months; 90-day cookie
