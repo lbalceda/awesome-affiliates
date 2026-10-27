@@ -122,7 +122,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 <a name="education"></a> 
 ### Education
 - [Circle](https://circle.so/) - [affiliate information](https://circle.so/affiliate-program) $100 one-time plus 10–20% recurring on Standard plans, by tier; 90-day cookie; $5 minimum
-- [JG Core Academy](https://jgcore.com/academy) - [affiliate information](https://jgcore.com/earn) Up to 40% per sale (rates vary by product, can change); 60-day cookie; £50 minimum
+- [JG Core Academy](https://jgcore.com/academy) - [affiliate information](https://jgcore.com/earn?src=awesome-affiliates) Up to 40% per sale (rates vary by product, can change); 60-day cookie; £50 minimum
 - [Kartra](https://kartra.com/) - [affiliate information](https://kartra.com/partners/) Up to 40% recurring for the first 12 months
 - [Podia](https://www.podia.com/) - [affiliate information](https://affiliates.podia.com/) 30% on all sales through your link for the first 12 months; 90-day cookie; $50 minimum
 - [systeme.io](https://systeme.io/) - [affiliate information](https://systeme.io/affiliate-program) 60% on every sale; recurring; $30 minimum
