@@ -139,6 +139,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [BCMS](https://thebcms.com) - [affiliate information](https://thebcms.com/affiliate)
 - [n8n](https://n8n.io/) - [affiliate information](https://n8n.io/affiliates/) 30% on n8n Cloud referrals for the first 12 months; €100 minimum
 - [Proxydocker](https://www.proxydocker.com/) - [affiliate information](https://www.proxydocker.com/en/affiliate/) Proxy lists checked around the clock, with reliability history and a download API. 50% of the first payment, then 30% of every renewal; recurring; 60-day cookie; automatic approval; $20 minimum by PayPal, Wise, bank transfer or USDT
+- [SwapChan](https://swapchan.com/) - [affiliate information](https://swapchan.com/partners) Crypto swap aggregator with an embeddable widget, ?ref= links and an MCP server for AI agents. 5 bp (half the 0.1% swap fee) on every referred swap; 30-day cookie; instant signup
 
 <a name="communication"></a>
 ### Communication
