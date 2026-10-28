@@ -31,6 +31,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [APPLORE](https://applore.app/) - [affiliate information](https://applore.app/affiliates) 30% recurring for 12 months; 30-day cookie; monthly payouts by PayPal or crypto, $50 minimum
 - [Descript](https://www.descript.com/) - [affiliate information](https://www.descript.com/affiliate) $25 per new subscriber
 - [ElevenLabs](https://elevenlabs.io/) - [affiliate information](https://elevenlabs.io/affiliates) Up to 22% of payments for the first 12 months
+- [English Test Coach](https://englishtestcoach.com/) - [affiliate information](https://englishtestcoach.com/affiliates) AI IELTS writing checker that estimates band scores and tells students what to revise next. 30% of payments for each customer's first 12 months (40% for founding affiliates who join before 31 March 2027)
 - [HeyGen](https://www.heygen.com/) - [affiliate information](https://www.heygen.com/geniverse/social-creator-program) 35% recurring for 3 months; 30-day cookie
 - [Julius AI](https://julius.ai/) - [affiliate information](https://partners.dub.co/julius) 50% recurring for 12 months, up to $25,000 per customer; 60-day cookie; monthly payouts, no minimum
 - [Lazy Ads](https://lazyads.ai/) - [affiliate information](https://lazyads.ai/affiliates/join) AI media buyer on a fixed monthly fee across nine ad networks. 25% of eligible paid subscription invoices for 12 months; 90-day first-touch cookie; Stripe Connect payouts after a 30-day hold; $50 minimum
