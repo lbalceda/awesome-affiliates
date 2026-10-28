@@ -29,6 +29,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 <a name="ai-tools"></a>
 ### AI Tools
 - [APPLORE](https://applore.app/) - [affiliate information](https://applore.app/affiliates) 30% recurring for 12 months; 30-day cookie; monthly payouts by PayPal or crypto, $50 minimum
+- [BenchFleet](https://benchfleet.com/) - [affiliate information](https://benchfleet.com/affiliates) AI agents such as Claude Code and Codex on real and cloud Android phones over MCP. 40% of payments for each customer's first 12 months (50% for founding affiliates who apply before 31 March 2027); 90-day attribution; monthly payouts, £25 minimum
 - [Descript](https://www.descript.com/) - [affiliate information](https://www.descript.com/affiliate) $25 per new subscriber
 - [ElevenLabs](https://elevenlabs.io/) - [affiliate information](https://elevenlabs.io/affiliates) Up to 22% of payments for the first 12 months
 - [HeyGen](https://www.heygen.com/) - [affiliate information](https://www.heygen.com/geniverse/social-creator-program) 35% recurring for 3 months; 30-day cookie
