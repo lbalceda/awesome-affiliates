@@ -33,6 +33,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Descript](https://www.descript.com/) - [affiliate information](https://www.descript.com/affiliate) $25 per new subscriber
 - [ElevenLabs](https://elevenlabs.io/) - [affiliate information](https://elevenlabs.io/affiliates) Up to 22% of payments for the first 12 months
 - [HeyGen](https://www.heygen.com/) - [affiliate information](https://www.heygen.com/geniverse/social-creator-program) 35% recurring for 3 months; 30-day cookie
+- [HOL Guard](https://hol.org/guard) - [affiliate information](https://hol.org/guard/affiliates) AI-agent runtime policy and approval controls. 25% commission on qualifying net subscription revenue for the first 12 months per referred paid customer; approval required; payouts after a 30-day hold and compliance review.
 - [Julius AI](https://julius.ai/) - [affiliate information](https://partners.dub.co/julius) 50% recurring for 12 months, up to $25,000 per customer; 60-day cookie; monthly payouts, no minimum
 - [Lazy Ads](https://lazyads.ai/) - [affiliate information](https://lazyads.ai/affiliates/join) AI media buyer on a fixed monthly fee across nine ad networks. 25% of eligible paid subscription invoices for 12 months; 90-day first-touch cookie; Stripe Connect payouts after a 30-day hold; $50 minimum
 - [Lovable](https://lovable.dev/) - [affiliate information](https://lovable.dev/partners/affiliates) Up to $100 per first-time subscriber
