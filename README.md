@@ -11,6 +11,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Books](#books)
 - [Code](#code)
 - [Communication](#communication)
+- [Creator Platforms / Media](#creator-platforms--media)
 - [Domains / Hosting](#domains--hosting)
 - [Education](#education)
 - [Events](#events)
@@ -154,6 +155,10 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 ### Videos
 - [CartViral](https://cartviral.com) - [affiliate information](https://cartviral.com/referral) 30% lifetime recurring referral link, 60-day cookie
 - [Videohive](http://videohive.net) - [affiliate information](http://videohive.net/affiliate_program) referral link
+
+<a name="creator-platforms--media"></a> 
+### Creator Platforms / Media
+- [Stilcam](https://stilcam.com) - [affiliate information](https://stilcam.com/affiliate) **18+ adult content.** Flat $4.99 per referral that buys premium; 30-day cookie
 
 <a name="music--sounds"></a> 
 ### Music / Sounds
