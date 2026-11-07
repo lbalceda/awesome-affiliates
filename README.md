@@ -39,6 +39,7 @@ Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%2
 - [Julius AI](https://julius.ai/) - [affiliate information](https://partners.dub.co/julius) 50% recurring for 12 months, up to $25,000 per customer; 60-day cookie; monthly payouts, no minimum
 - [Lazy Ads](https://lazyads.ai/) - [affiliate information](https://lazyads.ai/affiliates/join) AI media buyer on a fixed monthly fee across nine ad networks. 25% of eligible paid subscription invoices for 12 months; 90-day first-touch cookie; Stripe Connect payouts after a 30-day hold; $50 minimum
 - [Lovable](https://lovable.dev/) - [affiliate information](https://lovable.dev/partners/affiliates) Up to $100 per first-time subscriber
+- [Marquorum](https://marquorum.com/) - [affiliate information](https://marquorum.com/commissions-and-payouts) A creator program for Akii’s AI apps. Earn 25%, 30% or 35% of eligible revenue for the customer’s subscription lifetime. The latest valid referral within 30 days gets credit. Monthly USD PayPal payouts start at a $50 eligible balance.
 - [Murf](https://murf.ai/) - [affiliate information](https://murf.ai/partner-with-us/affiliate) 20% recurring for 24 months; 90-day cookie
 - [Newly](https://newly.app/) - [affiliate information](https://newly.app/affiliates) 60% of each referred new customer's revenue for their first 6 months; 30-day cookie; monthly NET-15 payouts, $0 minimum
 - [OpusClip](https://www.opus.pro/) - [affiliate information](https://www.opus.pro/affiliate) 25% recurring for the first year; paid by PayPal
