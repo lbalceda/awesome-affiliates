@@ -1,0 +1,29 @@
+name: Thank contributors
+
+# pull_request_target lets the comment post on PRs from forks. It's safe here
+# because the job never checks out or runs code from the pull request.
+on:
+  pull_request_target:
+    types: [closed]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  thank:
+    if: >-
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.user.login != github.repository_owner &&
+      github.event.pull_request.user.type != 'Bot'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on the merged pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: |
+          gh pr comment "$PR_NUMBER" --repo "$REPO" --body "Thanks for the addition, @$AUTHOR! It's merged and live in the list.
+
+          If you find Awesome Affiliates useful, a ⭐ or a share helps more people find it."
