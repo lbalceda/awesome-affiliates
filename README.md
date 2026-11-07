@@ -81,6 +81,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [Fair Value Calculator](https://www.fairvalue-calculator.com/) - [affiliate information](https://www.fairvalue-calculator.com/affiliate-program) Fair value, quality score and evidence for 40,000+ stocks from 26 valuation models. 30% of every net payment for as long as the customer pays (recurring for life), 90-day attribution, automatic approval, monthly PayPal payouts from €25; referred users get 30 days of Pro free
 - [FreshBooks](https://www.freshbooks.com/) - [affiliate information](https://www.freshbooks.com/affiliate-program) Up to $200 per paid subscriber, on a commission structure that grows with volume
 - [Google Apps](https://apps.google.com) - [affiliate information](https://apps.google.com/landing/partners/referral/) referral link
+- [Iruka](https://iruka.sh/) - [affiliate information](https://iruka.lemonsqueezy.com/affiliates) Native Mac file manager with dual panes and a terminal that follows your folder. 30% per sale, up to $18; 60-day cookie; $10 minimum payout; NET30.
 - [Microsoft](http://www.microsoft.com) - [affiliate information](http://www.microsoftaffiliates.com/) referral link
 - [monday.com](https://monday.com/) - [affiliate information](https://monday.com/affiliate-program) Up to 100% of a customer's first-year sales, by tier
 - [Notion](https://www.notion.com/) - [affiliate information](https://www.notion.com/affiliates) Up to $50 per activated sign-up, plus 20% of year-one revenue; 180-day cookie
