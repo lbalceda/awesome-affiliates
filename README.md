@@ -2,9 +2,9 @@
 
 A curated list of awesome affiliate programs with easy-to-embed referral links (usually no developer required) or APIs (developer required) to help monetize your app / blog / site.
 
-Please contribute to this list by pull request or contact me on Twitter [@lbalceda](https://twitter.com/lbalceda).
+Please contribute to this list by pull request (see the [contributing guide](contributing.md)) or contact me on Twitter [@lbalceda](https://twitter.com/lbalceda).
 
-Share this list on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20list%20of%20awesome%20affiliate%20programs%20https%3A%2F%2Fgithub.com%2Flbalceda%2Fawesome-affiliates).
+If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20list%20of%20awesome%20affiliate%20programs%20https%3A%2F%2Fgithub.com%2Flbalceda%2Fawesome-affiliates) so more people can find it.
 
 ## Index
 - [AI Tools](#ai-tools)
