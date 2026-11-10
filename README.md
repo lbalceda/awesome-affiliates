@@ -109,6 +109,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [ActiveCampaign](https://www.activecampaign.com/) - [affiliate information](https://www.activecampaign.com/partners/affiliate) 20–30% of subscription value, rising with new business and retention; recurring
 - [Aweber](http://www.aweber.com) - [affiliate information](http://www.aweber.com/affiliates.htm) referral link
 - [beehiiv](https://www.beehiiv.com/) - [affiliate information](https://www.beehiiv.com/partners) 50–60%, tiered: 50% Bronze, 55% Silver, 60% Gold; recurring; 60-day cookie
+- [Convertlyft](https://convertlyft.com/) - [affiliate information](https://convertlyft.com/affiliates) Web analytics, CRO and SEO tool. 30% of every payment recurring for 12 months, no cap; 30-day last-click cookie; monthly PayPal, $20 minimum
 - [GetResponse](http://www.getresponse.com) - [affiliate information](http://www.getresponse.com/partners) referral link
 - [HubSpot](https://www.hubspot.com/) - [affiliate information](https://www.hubspot.com/affiliates) 30% recurring for up to one year, up to $1,000+ per sale; 180-day cookie; $10 minimum
 - [Hunter](https://hunter.io/) - [affiliate information](https://hunter.io/affiliate-program) 30% recurring; 30-day cookie; $100 minimum
