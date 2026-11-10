@@ -121,6 +121,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [Rank Math](https://rankmath.com/) - [affiliate information](https://rankmath.com/affiliates/) 30% per sale; $200 minimum
 - [Repostit](https://repostit.io/) - [affiliate information](https://partners.repostit.io/register) Social video publishing automation. 20% recurring on valid paid, non-refunded subscriptions while the customer stays active; 360-day attribution; 60-day validation; $10 minimum; monthly PayPal or bank payouts.
 - [Semrush](https://www.semrush.com/) - [affiliate information](https://www.semrush.com/lp/affiliate-program/en/) $100–$300 per sale, rising to $450 at Platinum, plus $10 per free trial; 120-day cookie
+- [Seonix](https://seonix.ai/) - [affiliate information](https://seonix.ai/affiliate) SEO autopilot that writes and publishes articles to a site. 50% of each referred customer's first 12 charges; 30-day cookie; manual approval; $49 minimum via PayPal
 - [sprkly](https://sprkly.app/) - [affiliate information](https://sprkly.app/affiliates) Social media scheduler with comment and DM automation for Instagram, TikTok, YouTube and 6 more apps. 30% recurring for 12 months; 60-day cookie; monthly payouts by Wise or PayPal, $50 minimum; manual application review
 - [Surfer](https://surferseo.com/) - [affiliate information](https://surferseo.com/affiliate-program/) 75–125% of a monthly subscriber's first payment, or 15–25% of an annual, by tier; 90-day cookie
 
