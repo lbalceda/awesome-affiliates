@@ -173,6 +173,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [Audiojungle](http://audiojungle.net) - [affiliate information](http://audiojungle.net/affiliate_program) referral link
 - [LuckStock](https://luckstock.com) - [affiliate information](https://luckstock.com/pages/affiliate-program.html) referral link
 - [Pond5](https://www.pond5.com) - [affiliate information](https://www.pond5.com/referral) referral link
+- [Tera Studio](https://terastudio.co/) - [affiliate information](https://terastudio.co/creators/) AI singing: a short take of your voice becomes any song in your voice, in 31 languages. 30% of every payment for each referred customer's first 12 months; attribution by account with no cookie window; monthly PayPal or UPI payouts.
 
 <a name="transportation"></a> 
 ### Transportation
