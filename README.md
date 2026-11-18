@@ -213,6 +213,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [Home Depot](http://www.homedepot.com) - [affiliate information](http://www.homedepot.com/c/SF_MS_Affiliate_Program_FAQs) referral links
 - [Target](http://www.target.com) - [affiliate information](http://affiliate.target.com/)
 - [Walmart](https://www.walmart.com) - [affiliate information](https://affiliates.walmart.com/#!/) referral links, tools to create banners
+- [Waltrack](https://www.waltrack.dev/) - [affiliate information](https://www.waltrack.dev/affiliates) Walmart price tracker with price history and drop alerts. 30% recurring for 12 months; 60-day attribution, last click; automatic approval; monthly payouts by bank, PayPal or Wise, $50 minimum
 
 <a name="traditional-affiliate-networks--marketplaces"></a> 
 ### Traditional Affiliate Networks / Marketplaces
