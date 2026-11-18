@@ -205,6 +205,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 ### Shopping
 
 - [Amazon](https://www.amazon.com) - [affiliate information](https://affiliate-program.amazon.com/join/landing/tools.html) API & referral links
+- [Asin](https://www.asin.dev/) - [affiliate information](https://www.asin.dev/affiliates) Amazon price tracker with price history and drop alerts. 30% recurring for 12 months; 60-day attribution, last click; automatic approval; monthly payouts by bank, PayPal or Wise, $50 minimum
 - [Best Buy](http://www.bestbuy.com) - [affiliate information](http://www.bestbuy.com/site/clp/best-buy-affiliate-program/pcmcat198500050002.c?id=pcmcat198500050002) referral links
 - [Ebay](https://www.ebay.com) - [affiliate information](https://partnernetwork.ebay.com/en/home) referral links
 - [Etsy](https://www.etsy.com) - [affiliate information](https://www.etsy.com/help/article/5369?ref=affiliates_landing) referral links
