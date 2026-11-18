@@ -152,6 +152,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [BCMS](https://thebcms.com) - [affiliate information](https://thebcms.com/affiliate)
 - [n8n](https://n8n.io/) - [affiliate information](https://n8n.io/affiliates/) 30% on n8n Cloud referrals for the first 12 months; €100 minimum
 - [Proxydocker](https://www.proxydocker.com/) - [affiliate information](https://www.proxydocker.com/en/affiliate/) Proxy lists checked around the clock, with reliability history and a download API. 50% of the first payment, then 30% of every renewal; recurring; 60-day cookie; automatic approval; $20 minimum by PayPal, Wise, bank transfer or USDT
+- [Stratos](https://stratosapp.dev/) - [affiliate information](https://stratosapp.dev/affiliates/) Native macOS PHP & Laravel dev stack. 35% on Lifetime, 30% recurring on Annual; 60-day cookie; manual approval; monthly PayPal/bank payouts.
 - [SwapChan](https://swapchan.com/) - [affiliate information](https://swapchan.com/partners) Crypto swap aggregator with an embeddable widget, ?ref= links and an MCP server for AI agents. 5 bp (half the 0.1% swap fee) on every referred swap; 30-day cookie; instant signup
 
 <a name="communication"></a>
