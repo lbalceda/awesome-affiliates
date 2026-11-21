@@ -118,6 +118,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [Hunter](https://hunter.io/) - [affiliate information](https://hunter.io/affiliate-program) 30% recurring; 30-day cookie; $100 minimum
 - [Kafkai](https://kafkai.com) - [affiliate information](https://kafkai.com/en/affiliate/) referral link
 - [LaunchSpy](https://launchspy.io/) - [affiliate information](https://partners.launchspy.io/register) 40% recurring for the customer's lifetime; promo code with no expiry plus referral link with 60-day cookie; €50 minimum
+- [LinkBunny](https://getlinkbunny.com/) - [affiliate information](https://getlinkbunny.com/affiliates) Coding-agent workflow for contextual nofollow link exchanges. 30% recurring for 12 months; 60-day cookie; manual approval; $50 minimum payout.
 - [Mangools](https://mangools.com/) - [affiliate information](https://mangools.com/affiliate-program) 25%, 30% or 35% by tier; recurring
 - [Omnisend](https://www.omnisend.com/) - [affiliate information](https://www.omnisend.com/affiliates/) 20% recurring for up to 24 months; 60-day cookie
 - [OneLence](https://onelence.com/) - [affiliate information](https://onelence.com/affiliate) Marketing analytics that shows how each affiliate partner contributes, with partner discovery for finding new affiliates (more research runs with the Affiliate Discovery Pack). 30% recurring for 12 months on customers referred by December 31, 2026, then 20%; 60-day attribution; $50 minimum
