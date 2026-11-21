@@ -88,7 +88,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [monday.com](https://monday.com/) - [affiliate information](https://monday.com/affiliate-program) Up to 100% of a customer's first-year sales, by tier
 - [Notion](https://www.notion.com/) - [affiliate information](https://www.notion.com/affiliates) Up to $50 per activated sign-up, plus 20% of year-one revenue; 180-day cookie
 - [Oakhampton Operations Twin](https://twin.oakhampton.ai) - [affiliate information](https://twin.oakhampton.ai/partners) 20% of net revenue for 12 months per referred client, 30-day tracking, automatic approval
-- [Storepanes](https://bestlatestapps.com/storepanes/) - [affiliate information](https://bestlatestapps.com/storepanes/affiliates/terms/) Browser tool for App Store and Google Play screenshots. 50% of each payment, including renewals, for 12 months from the first click (on a yearly plan only the first payment earns); 60-day first-click cookie; 15-day hold; $20 minimum by Wise or bank transfer in USD; tax 
+- [Storepanes](https://bestlatestapps.com/storepanes/) - [affiliate information](https://bestlatestapps.com/storepanes/affiliates/terms/) Browser tool for App Store and Google Play screenshots. 50% of each payment, including renewals, for 12 months from the first click (on a yearly plan only the first payment earns); 60-day first-click cookie; 15-day hold; $20 minimum by Wise or bank transfer in USD; tax form required.
 
 <a name="domains--hosting"></a> 
 ### Domains / Hosting
