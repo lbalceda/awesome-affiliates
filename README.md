@@ -47,6 +47,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [ReelsCut](https://reelscut.ai/) - [affiliate information](https://reelscut.ai/affiliate) 30% recurring for life, no cap; 180-day attribution; paid via Creem
 - [Retell AI](https://www.retellai.com/) - [affiliate information](https://www.retellai.com/affiliate) 15% recurring for 12 months; 90-day cookie
 - [Rytr](https://rytr.me/) - [affiliate information](https://rytr.me/affiliates) 30% recurring for 12 months; 60-day cookie
+- [Synap402](https://synap402.com/) - [affiliate information](https://synap402.com/referrals.html) OpenAI-compatible inference API for open-weight AI models. 10% of referred spend, up to $500/account; 14-day hold; payout as credit or cash out from $50 in USDC on Base or to a card
 - [tlooto AI](https://tlooto.com/) - [affiliate information](https://tlooto.com/influencer/en-US) 30% recurring for 12 months; 365-day cookie; $100 minimum
 - [VideoGen](https://videogen.io/) - [affiliate information](https://videogen.io/affiliate-program) 30% recurring on referred subscriptions; up-to-60-day cookie; monthly payouts; $50 minimum; manual application review
 - [Writesonic](https://writesonic.com/) - [affiliate information](https://writesonic.com/affiliate) 20% recurring for 12 months; 60-day cookie
