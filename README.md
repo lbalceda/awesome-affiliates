@@ -87,6 +87,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [Iruka](https://iruka.sh/) - [affiliate information](https://iruka.lemonsqueezy.com/affiliates) Native Mac file manager with dual panes and a terminal that follows your folder. 30% per sale, up to $18; 60-day cookie; $10 minimum payout; NET30.
 - [Microsoft](http://www.microsoft.com) - [affiliate information](http://www.microsoftaffiliates.com/) referral link
 - [monday.com](https://monday.com/) - [affiliate information](https://monday.com/affiliate-program) Up to 100% of a customer's first-year sales, by tier
+- [Moto](https://motohabit.com/) - [affiliate information](https://motohabit.com/partners) Habit tracker for iPhone, iPad and Mac. €10 flat per Moto Pro Lifetime sale (one-time); 160-day cookie; manual approval; paid twice a month via Creem
 - [Notion](https://www.notion.com/) - [affiliate information](https://www.notion.com/affiliates) Up to $50 per activated sign-up, plus 20% of year-one revenue; 180-day cookie
 - [Oakhampton Operations Twin](https://twin.oakhampton.ai) - [affiliate information](https://twin.oakhampton.ai/partners) 20% of net revenue for 12 months per referred client, 30-day tracking, automatic approval
 
