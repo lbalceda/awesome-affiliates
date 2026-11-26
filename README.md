@@ -45,6 +45,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [Newly](https://newly.app/) - [affiliate information](https://newly.app/affiliates) 60% of each referred new customer's revenue for their first 6 months; 30-day cookie; monthly NET-15 payouts, $0 minimum
 - [OpusClip](https://www.opus.pro/) - [affiliate information](https://www.opus.pro/affiliate) 25% recurring for the first year; paid by PayPal
 - [ReelsCut](https://reelscut.ai/) - [affiliate information](https://reelscut.ai/affiliate) 30% recurring for life, no cap; 180-day attribution; paid via Creem
+- [RefVid](https://refvid.com/) - [affiliate information](https://refvid.com/affiliates) AI videos that keep a character or product the same in every shot. 30% of credit packs with no end date and of monthly plans for 12 months; 20% of yearly plans; 60-day cookie; manual approval; monthly PayPal or Wise payouts, $50 minimum
 - [Retell AI](https://www.retellai.com/) - [affiliate information](https://www.retellai.com/affiliate) 15% recurring for 12 months; 90-day cookie
 - [Rytr](https://rytr.me/) - [affiliate information](https://rytr.me/affiliates) 30% recurring for 12 months; 60-day cookie
 - [Synap402](https://synap402.com/) - [affiliate information](https://synap402.com/referrals.html) OpenAI-compatible inference API for open-weight AI models. 10% of referred spend, up to $500/account; 14-day hold; payout as credit or cash out from $50 in USDC on Base or to a card
