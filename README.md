@@ -31,6 +31,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 ### AI Tools
 - [APPLORE](https://applore.app/) - [affiliate information](https://applore.app/affiliates) 30% recurring for 12 months; 30-day cookie; monthly payouts by PayPal or crypto, $50 minimum
 - [BenchFleet](https://benchfleet.com/) - [affiliate information](https://benchfleet.com/affiliates) AI agents such as Claude Code and Codex on real and cloud Android phones over MCP. 40% of payments for each customer's first 12 months (50% for founding affiliates who apply before 31 March 2027); 90-day attribution; monthly payouts, £25 minimum
+-  [Buildy.ai](https://buildy.ai/) - [affiliate information](https://buildy.ai/affiliates) AI business builder for websites, apps and automations. 100% first-month commission; 15% lifetime recurring commission thereafter.
 - [Descript](https://www.descript.com/) - [affiliate information](https://www.descript.com/affiliate) $25 per new subscriber
 - [ElevenLabs](https://elevenlabs.io/) - [affiliate information](https://elevenlabs.io/affiliates) Up to 22% of payments for the first 12 months
 - [English Test Coach](https://englishtestcoach.com/) - [affiliate information](https://englishtestcoach.com/affiliates) AI IELTS writing checker that estimates band scores and tells students what to revise next. 30% of payments for each customer's first 12 months (40% for founding affiliates who join before 31 March 2027)
