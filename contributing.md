@@ -21,17 +21,18 @@ Each entry is one line:
 - **Description:** the terms an affiliate cares about, separated by semicolons: commission rate, how long it's paid (one-time, 12 months, lifetime), cookie or attribution window, approval (automatic or manual), minimum payout and payout methods. For a lesser-known product, one short sentence on what it does can come first.
 - Keep it factual and use the numbers from the program page. No superlatives ("best", "#1", "highest paying"), no emoji and no calls to action.
 - Aim for under 250 characters.
+- Start the description with a capital letter and end it with a period.
 - Use `https://` links.
 - Start the description with **18+ adult content.** if the product has adult content.
 
 ## Where it goes
 
 - Put the entry in the section that fits best, in alphabetical order (ignoring case).
-- Only add a new section when none of the existing ones fit. A new section needs an `<a name="..."></a>` anchor above its `###` heading and a matching line in the Index, in alphabetical order.
+- Only add a new section when none of the existing ones fit. A new section needs a `##` heading and a matching line in Contents. Sections and Contents lines are both in alphabetical order.
 
 ## Pull request
 
 - One program per pull request.
 - Title it `Add <Product> to <Section>`.
-- Change only your entry's line, plus the anchor and Index line for a new section. Don't reorder, reformat or edit other entries in the same PR. If another entry is broken or out of date, open a separate PR for it.
+- Change only your entry's line, plus the heading and Contents line for a new section. Don't reorder, reformat or edit other entries in the same PR. If another entry is broken or out of date, open a separate PR for it.
 - If you work for or own the product, say so in the description. That's fine; it just helps review.
