@@ -61,8 +61,6 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 ## Code
 
 - [BCMS](https://thebcms.com) - [affiliate information](https://thebcms.com/affiliate)
-- [binpress](https://www.binpress.com) - [affiliate information](https://www.binpress.com/content/affiliates) Referral link.
-- [Codecanyon](https://codecanyon.net) - [affiliate information](https://www.envato.com/affiliates/) Referral link.
 - [CSV SafeCheck](https://csv-safecheck.pages.dev/) - [affiliate information](https://csv-safecheck.pages.dev/affiliates) 10% referral links, manual approval, 7-day tracking.
 - [n8n](https://n8n.io/) - [affiliate information](https://n8n.io/affiliates/) 30% on n8n Cloud referrals for the first 12 months; €100 minimum.
 - [Proxydocker](https://www.proxydocker.com/) - [affiliate information](https://www.proxydocker.com/en/affiliate/) Proxy lists checked around the clock, with reliability history and a download API. 50% of the first payment, then 30% of every renewal; recurring; 60-day cookie; automatic approval; $20 minimum by PayPal, Wise, bank transfer or USDT.
@@ -72,7 +70,7 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 ## Communication
 
 - [FastComments](https://fastcomments.com) - [affiliate information](https://docs.fastcomments.com/guide-affiliates.html) Commenting system for websites and apps. 30% lifetime recurring on all referred revenue; monthly payouts by PayPal.
-- [PuchiDen](https://puchiden.app) - [affiliate information](https://puchiden.app/blog/product-updates/our-affiliate-program-is-open/) Referral link.
+- [PuchiDen](https://puchiden.app) - [affiliate information](https://puchiden.app/blog/product-updates/our-affiliate-program-is-open/) Browser-based international calling. 10% of credit top-ups for 12 months; 30-day attribution window; manual approval; €20 minimum payout; PayPal or Payoneer.
 
 ## Creator Platforms / Media
 
@@ -80,19 +78,18 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 
 ## Domains / Hosting
 
-- [bluehost](https://www.bluehost.com) - [affiliate information](https://www.bluehost.com/hosting/partner) Referral link.
+- [bluehost](https://www.bluehost.com) - [affiliate information](https://www.bluehost.com/affiliates) $65 per qualified sale; 30-day cookie; manual approval; PayPal or direct deposit; runs on Impact.
 - [Cloudways](https://www.cloudways.com/) - [affiliate information](https://www.cloudways.com/en/web-hosting-affiliate-program.php) Up to $125 per sale, or $30 per sale plus 7% lifetime; recurring; 90-day cookie; $250 minimum by PayPal.
 - [DigitalOcean](https://www.digitalocean.com/) - [affiliate information](https://www.digitalocean.com/referral-program) $25 after the referral spends their first $25.
 - [godaddy](https://www.godaddy.com) - [affiliate information](https://www.godaddy.com/affiliates/affiliate-program.aspx) Referral links/banners.
-- [hostgator](https://www.hostgator.com) - [affiliate information](https://www.hostgator.com/affiliates) Referral link.
+- [hostgator](https://www.hostgator.com) - [affiliate information](https://www.hostgator.com/affiliates) At least 70% of each sale, capped at $100, with a $65 base commission; runs on Impact.
 - [Hostinger](https://www.hostinger.com/) - [affiliate information](https://www.hostinger.com/affiliates) Starts at 40% and grows with sales volume.
 - [Karma.Domains](https://karma.domains/) - [affiliate information](https://karma.domains/en/affiliate-program/) 50% lifetime recurring commission; 100-day cookie; $50 minimum by PayPal, USDT or USDC.
 - [Kinsta](https://kinsta.com/) - [affiliate information](https://kinsta.com/affiliates/) 10% monthly, plus a one-time bonus of up to $500; recurring; 60-day cookie.
-- [namecheap](https://www.namecheap.com) - [affiliate information](https://www.namecheap.com/affiliates.aspx) Referral link.
+- [namecheap](https://www.namecheap.com) - [affiliate information](https://www.namecheap.com/affiliates.aspx) 20% on domains and 35% on hosting and SSL certificates, on a new customer's first order.
 - [register.com](https://www.register.com) - [affiliate information](https://www.register.com/affiliate.rcmx) Referral link / banners.
 - [SiteGround](https://www.siteground.com/) - [affiliate information](https://www.siteground.com/affiliates) $50–$100 per sale by monthly volume; no minimum threshold.
 - [Tuncer Technologies](https://www.tuncertech.com/) - [affiliate information](https://partners.tuncertech.com/) Websites, hosting, apps and IT services; up to 25% of net on hosting for 12 months, up to 15% on packages, up to 10% on services; 60-day cookie; weekly payouts from $25 by PayPal, bank, GCash or Maya.
-- [uniregistry](https://uniregistry.com) - [affiliate information](https://uniregistry.com/affiliates/about) Referral link.
 - [WP Engine](https://wpengine.com/) - [affiliate information](https://wpengine.com/affiliate-program/) $100 on Lite plans, $200 or the first month's payment on all others; 180-day cookie.
 
 ## Education
@@ -104,7 +101,7 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 - [systeme.io](https://systeme.io/) - [affiliate information](https://systeme.io/affiliate-program) 60% on every sale; recurring; $30 minimum.
 - [Teachable](https://www.teachable.com/) - [affiliate information](https://www.teachable.com/partners) 30% recurring for the first year; 30-day cookie.
 - [Thinkific](https://www.thinkific.com/) - [affiliate information](https://www.thinkific.com/affiliates/) 30% lifetime recurring; Plus plans pay $150 per month instead; 90-day cookie; $25 minimum.
-- [Udemy](https://www.udemy.com) - [affiliate information](https://www.udemy.com/affiliate/) Referral link.
+- [Udemy](https://www.udemy.com) - [affiliate information](https://www.udemy.com/affiliate/) Runs on Impact; applications reviewed within 3 to 4 business days; commission rate not published.
 
 ## Events
 
@@ -114,27 +111,22 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 ## Images / Photos
 
 - [123RF](https://www.123rf.com) - [affiliate information](https://www.123rf.com/join_affiliate/) Referral.
-- [3docean](https://www.3docean.net) - [affiliate information](https://3docean.net/?osr=tn&_ga=1.78761620.1023944740.1464038674) Referral link.
-- [99designs](https://www.99designs.com) - [affiliate information](https://99designs.com/affiliates) Referral link.
+- [99designs](https://www.99designs.com) - [affiliate information](https://99designs.com/affiliates) $40 per new customer and $20 per returning customer; 60-day cookie; manual approval; runs on Impact.
 - [DepositPhotos](https://depositphotos.com) - [affiliate information](https://depositphotos.com/api-program.html) API & referral link.
 - [Dreamstime](https://www.dreamstime.com) - [affiliate information](https://www.dreamstime.com/affiliate-referral-program) API & referral link.
-- [Fotolia](https://www.fotolia.com) - [affiliate information](https://www.fotolia.com/Services/API/Partner) API.
-- [Graphic River](https://graphicriver.net) - [affiliate information](https://www.envato.com/affiliates/) Referral link.
-- [Photodune](https://photodune.net) - [affiliate information](https://www.envato.com/affiliates/) Referral link.
-- [Shutterstock](https://developers.shutterstock.com) - [affiliate information](https://developers.shutterstock.com/) API & referral link.
-- [Stockfresh](https://stockfresh.com) - [affiliate information](https://stockfresh.com/info/affiliates) Referral link.
+- [Envato](https://www.envato.com/) - [affiliate information](https://www.envato.com/affiliates/) Subscription to stock video, music, graphics, photos, fonts and templates. Monthly plans pay up to $20, $40 or $80 a month for the first 3 months and annual plans $120, $250 or $500 once, by tier; 90-day cookie; manual approval; runs on Impact.
+- [Shutterstock](https://www.shutterstock.com/) - [affiliate information](https://www.shutterstock.com/explore/affiliates) 20% of new customer purchases, up to $300 per new customer; 30-day cookie.
 
 ## Marketing / Email Automation
 
 - [ActiveCampaign](https://www.activecampaign.com/) - [affiliate information](https://www.activecampaign.com/partners/affiliate) 20–30% of subscription value, rising with new business and retention; recurring.
-- [Aweber](https://www.aweber.com) - [affiliate information](https://www.aweber.com/affiliates.htm) Referral link.
+- [Aweber](https://www.aweber.com) - [affiliate information](https://www.aweber.com/advocates.htm) 30% to 50% recurring commission for the lifetime of paid accounts, by the number of paid accounts referred in the past 12 months.
 - [beehiiv](https://www.beehiiv.com/) - [affiliate information](https://www.beehiiv.com/partners) 50–60%, tiered: 50% Bronze, 55% Silver, 60% Gold; recurring; 60-day cookie.
 - [Convertlyft](https://convertlyft.com/) - [affiliate information](https://convertlyft.com/affiliates) Web analytics, CRO and SEO tool. 30% of every payment recurring for 12 months, no cap; 30-day last-click cookie; monthly PayPal, $20 minimum.
 - [FreshStore](https://www.freshstore.com/) - [affiliate information](https://www.freshstore.com/affiliates) Affiliate site builder. 20% recurring for as long as the member stays; cookie never expires; PayPal, $20 minimum.
-- [GetResponse](https://www.getresponse.com) - [affiliate information](https://www.getresponse.com/partners) Referral link.
+- [GetResponse](https://www.getresponse.com) - [affiliate information](https://www.getresponse.com/affiliate-programs) 40% recurring commission for 12 months, rising to 50% after 50 sales and 60% after 100 sales in 12 months; 90-day cookie; manual approval; runs on PartnerStack.
 - [HubSpot](https://www.hubspot.com/) - [affiliate information](https://www.hubspot.com/affiliates) 30% recurring for up to one year, up to $1,000+ per sale; 180-day cookie; $10 minimum.
 - [Hunter](https://hunter.io/) - [affiliate information](https://hunter.io/affiliate-program) 30% recurring; 30-day cookie; $100 minimum.
-- [Kafkai](https://kafkai.com) - [affiliate information](https://kafkai.com/en/affiliate/) Referral link.
 - [LaunchSpy](https://launchspy.io/) - [affiliate information](https://partners.launchspy.io/register) 40% recurring for the customer's lifetime; promo code with no expiry plus referral link with 60-day cookie; €50 minimum.
 - [LinkBunny](https://getlinkbunny.com/) - [affiliate information](https://getlinkbunny.com/affiliates) Coding-agent workflow for contextual nofollow link exchanges. 30% recurring for 12 months; 60-day cookie; manual approval; $50 minimum payout.
 - [Mangools](https://mangools.com/) - [affiliate information](https://mangools.com/affiliate-program) 25%, 30% or 35% by tier; recurring.
@@ -151,9 +143,7 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 
 ## Music / Sounds
 
-- [Audiojungle](https://audiojungle.net) - [affiliate information](https://www.envato.com/affiliates/) Referral link.
-- [LuckStock](https://luckstock.com) - [affiliate information](https://luckstock.com/pages/affiliate-program.html) Referral link.
-- [Pond5](https://www.pond5.com) - [affiliate information](https://www.pond5.com/referral) Referral link.
+- [Pond5](https://www.pond5.com) - [affiliate information](https://contributor.pond5.com/getting-started/referral-program/) 20% of a referred buyer's first purchase and 5% of later purchases for one year, up to $500 per customer; $25 minimum payout, paid monthly.
 
 ## Productivity Tools
 
@@ -164,7 +154,7 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 - [Fair Value Calculator](https://www.fairvalue-calculator.com/) - [affiliate information](https://www.fairvalue-calculator.com/affiliate-program) Fair value, quality score and evidence for 40,000+ stocks from 26 valuation models. 30% of every net payment for life; 90-day attribution; automatic approval; monthly PayPal payouts from €25; referred users get 30 days of Pro free.
 - [FreshBooks](https://www.freshbooks.com/) - [affiliate information](https://www.freshbooks.com/affiliate-program) Up to $200 per paid subscriber, on a commission structure that grows with volume.
 - [Genaya](https://genaya.com/) - [affiliate information](https://affiliate.genaya.com/) Business operations software with scheduling, billing, payments, analytics and AI. 15%, 20% or 25% of a referred customer's payments for 12 months, by tier; 60-day attribution; manual approval; monthly NET-30 payouts by bank transfer, $50 minimum.
-- [Google Apps](https://apps.google.com) - [affiliate information](https://apps.google.com/landing/partners/referral/) Referral link.
+- [Google Workspace](https://workspace.google.com/) - [affiliate information](https://workspace.google.com/referral-program/) One-time reward per new user referred, up to 200 users a year; US rates are $8 to $23 per user, by plan.
 - [Iruka](https://iruka.sh/) - [affiliate information](https://iruka.lemonsqueezy.com/affiliates) Native Mac file manager with dual panes and a terminal that follows your folder. 30% per sale, up to $18; 60-day cookie; $10 minimum payout; NET30.
 - [monday.com](https://monday.com/) - [affiliate information](https://monday.com/affiliate-program) Up to 100% of a customer's first-year sales, by tier.
 - [Moto](https://motohabit.com/) - [affiliate information](https://motohabit.com/partners) Habit tracker for iPhone, iPad and Mac. €10 flat per Moto Pro Lifetime sale (one-time); 160-day cookie; manual approval; paid twice a month via Creem.
@@ -188,14 +178,12 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 
 - [Elegant Themes](https://www.elegantthemes.com) - [affiliate information](https://www.elegantthemes.com/affiliates/) Referral link / banners.
 - [Elementor](https://elementor.com/) - [affiliate information](https://elementor.com/affiliates/) 45–55% on first purchases; 45-day cookie; $200 minimum.
-- [Themeforest](https://themeforest.net) - [affiliate information](https://www.envato.com/affiliates/) Referral link.
 
 ## Traditional Affiliate Networks / Marketplaces
 
 - [CJ Affiliate / Commission Junction](https://www.cj.com) - [affiliate information](https://www.cj.com/)
 - [Clickbank](https://www.clickbank.com) - [affiliate information](https://www.clickbank.com/)
 - [Clickwise](https://partners.clickwise.net/developers/) - [affiliate information](https://partners.clickwise.net/en/signup_affiliate/) API & MCP server: program discovery and apply, tracked links, batch deep links, sub-ID reports, signed postbacks and a product search endpoint (by text or GTIN).
-- [Peerfly](https://www.peerfly.com) - [affiliate information](https://peerfly.com/advertisers.php)
 - [Power CM Partners](https://partners.powercm-software.com/) - [affiliate information](https://partners.powercm-software.com/) Free software affiliate network with no exclusivity. Partners can recommend software and track visits, attributed signups, verified sales, and commissions; terms vary by product.
 - [Rakuten](https://www.rakuten.com) - [affiliate information](https://rakutenadvertising.com/)
 
@@ -208,16 +196,12 @@ Affiliate, referral and partner programs, with their commission rates, cookie wi
 - [Booking.com](https://www.booking.com) - [affiliate information](https://www.booking.com/affiliate-program/index.html)
 - [Expedia](https://www.expedia.com) - [affiliate information](https://creator.expediagroup.com/)
 - [Hotels.com](https://www.hotels.com) - [affiliate information](https://www.hotels.com/hotel-deals/travel-affiliate-program/)
-- [Hotwire](https://www.hotwire.com) - [affiliate information](https://www.hotwire.com/en/content/affiliate-overview)
-- [Orbitz](https://www.orbitz.com) - [affiliate information](https://www.orbitz.com/p/network-affiliate)
 - [TravelPayouts](https://www.travelpayouts.com) - [affiliate information](https://www.travelpayouts.com/)
-- [TripAdvisor](https://www.tripadvisor.com) - [affiliate information](https://www.tripadvisor.com/Affiliates)
 - [Triptipedia](https://www.triptipedia.com) - [affiliate information](https://www.triptipedia.com/affiliate)
 
 ## Videos
 
 - [CartViral](https://cartviral.com) - [affiliate information](https://cartviral.com/referral) 30% lifetime recurring referral link, 60-day cookie.
-- [Videohive](https://videohive.net) - [affiliate information](https://www.envato.com/affiliates/) Referral link.
 
 ## Contributing
 
