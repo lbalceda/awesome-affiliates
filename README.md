@@ -29,6 +29,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 
 <a name="ai-tools"></a>
 ### AI Tools
+- [Aderra](https://aderra.ai/r/AWESOMEAFF) - [affiliate information](https://aderra.ai/affiliates/) Uncensored AI assistant for chat, images, video and voice. 40% of a referral's first 3 paid months, then 10% through month 12; 20% second tier on Max; 90-day attribution; monthly payouts by PayPal, IBAN, Wise or USDT, $100 minimum
 - [APPLORE](https://applore.app/) - [affiliate information](https://applore.app/affiliates) 30% recurring for 12 months; 30-day cookie; monthly payouts by PayPal or crypto, $50 minimum
 - [BenchFleet](https://benchfleet.com/) - [affiliate information](https://benchfleet.com/affiliates) AI agents such as Claude Code and Codex on real and cloud Android phones over MCP. 40% of payments for each customer's first 12 months (50% for founding affiliates who apply before 31 March 2027); 90-day attribution; monthly payouts, £25 minimum
 -  [Buildy.ai](https://buildy.ai/) - [affiliate information](https://buildy.ai/affiliates) AI business builder for websites, apps and automations. 100% first-month commission; 15% lifetime recurring commission thereafter.
