@@ -10,8 +10,8 @@ This repo is one curated list, [README.md](README.md). Almost every change is a 
 2. Confirm both links load, with no 404 and no login wall.
 3. Search README.md for the product's name and domain. If it's already listed, stop and tell the user. If the listed terms are out of date, update that entry instead of adding a new one.
 4. Pick the section that fits best and insert the entry in alphabetical order (ignoring case) among its neighbors.
-5. Match the format of recent entries exactly: `- [Product](homepage) - [affiliate information](program page) Description`.
-6. Check that the diff is your one added line, plus an anchor and Index line if you added a section. Revert any incidental whitespace, line-ending or reformatting changes.
+5. Match the format of recent entries exactly: `- [Product](homepage) - [affiliate information](program page) Description.` The description starts with a capital letter and ends with a period.
+6. Check that the diff is your one added line, plus a `##` heading and Contents line if you added a section. Revert any incidental whitespace, line-ending or reformatting changes.
 7. Title the PR `Add <Product> to <Section>`. In the description, link the program page and say whether the user works for or owns the product. If you don't know, ask the user.
 
 ## Don't
