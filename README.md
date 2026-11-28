@@ -52,6 +52,7 @@ If this list helped you, give it a ⭐ or share it on [Twitter](https://twitter.
 - [tlooto AI](https://tlooto.com/) - [affiliate information](https://tlooto.com/influencer/en-US) 30% recurring for 12 months; 365-day cookie; $100 minimum
 - [VideoGen](https://videogen.io/) - [affiliate information](https://videogen.io/affiliate-program) 30% recurring on referred subscriptions; up-to-60-day cookie; monthly payouts; $50 minimum; manual application review
 - [Writesonic](https://writesonic.com/) - [affiliate information](https://writesonic.com/affiliate) 20% recurring for 12 months; 60-day cookie
+- [Ziztu Clip Maker](https://getziztu.com/clipper) - [affiliate information](https://getziztu.com/affiliates) Turns YouTube, Twitch and Kick streams into vertical clips with captions. 30% of every payment for life; 60-day cookie; automatic approval; 30-day hold; monthly payouts by PayPal, Wise or bank transfer
 
 <a name="images--photos"></a> 
 ### Images / Photos
