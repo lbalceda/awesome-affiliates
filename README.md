@@ -1,6 +1,6 @@
 # Awesome Affiliates [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Affiliate, referral and partner programs that pay a commission for sending customers to a product or service.
+Affiliate, referral and partner programs, with their commission rates, cookie windows and payout terms.
 
 ## Contents
 
